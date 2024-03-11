@@ -1,27 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4942837e-869a-4793-bee9-c3985fd9294d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hanajava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4942837e-869a-4793-bee9-c3985fd9294d" name="Changes" comment="day02">
+      <change afterPath="$PROJECT_DIR$/Account240311/Account240311.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account240311/src/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account240311/src/company/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account240311/src/company/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account240311/src/company/InvestmentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account240311/src/company/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Array7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/array/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/day022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/src/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day022/src/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/bank/bankapp/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/car1/Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/car1/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/car2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/car2/Cal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day031/day031.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day031/src/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day031/src/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day031/src/company/SalesEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day031/src/company/SecretaryEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/variable/Variable3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/variable/Variable3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/variable/Variable4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/variable/Variable4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2dNnc4ugtvLCWSwG0e76zBB4hMU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,17 +67,125 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App (1).executor": "Run",
+    "Application.App (2).executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.Array4.executor": "Run",
+    "Application.Array7.executor": "Run",
+    "Application.BankApp.executor": "Run",
+    "Application.Condition1.executor": "Run",
+    "Application.Condition2.executor": "Run",
+    "Application.Loop1.executor": "Run",
+    "Application.Loop2.executor": "Run",
+    "Application.Loop3.executor": "Run",
+    "Application.car1.app.App.executor": "Run",
+    "Application.car2.App.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/hanajava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/hanajava/src/Main.java",
+    "onboarding.tips.debug.path": "C:/hanajava/Account240311/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (2)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.App" />
+      <module name="day031" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.App" />
+      <module name="Account240311" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.bankapp.BankApp" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car1.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car1.app.App" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car1.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car2.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car2.App" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.BankApp" />
+        <item itemvalue="Application.car2.App" />
+        <item itemvalue="Application.car1.app.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,10 +195,125 @@
       <option name="presentableId" value="Default" />
       <updated>1709857483137</updated>
       <workItem from="1709857484208" duration="97000" />
+      <workItem from="1709857586854" duration="17824000" />
+      <workItem from="1709903167340" duration="339000" />
+      <workItem from="1709958210857" duration="118000" />
+      <workItem from="1710115618502" duration="21141000" />
     </task>
+    <task id="LOCAL-00001" summary="240308">
+      <option name="closed" value="true" />
+      <created>1709857953118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709857953118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="240308">
+      <option name="closed" value="true" />
+      <created>1709857961585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709857961585</updated>
+    </task>
+    <task id="LOCAL-00003" summary="240308 - day02">
+      <option name="closed" value="true" />
+      <created>1709860437859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709860437859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1709863150026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709863150026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day02">
+      <option name="closed" value="true" />
+      <created>1709863169786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709863169786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="240308" />
+    <MESSAGE value="240308 - day02" />
+    <MESSAGE value="1" />
+    <MESSAGE value="day02" />
+    <option name="LAST_COMMIT_MESSAGE" value="day02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day02/src/array/Array7.java</url>
+          <line>3</line>
+          <properties class="array.Array7" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java022/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day022/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day03/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day031/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Account240311/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
