@@ -4,51 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4942837e-869a-4793-bee9-c3985fd9294d" name="Changes" comment="day02">
-      <change afterPath="$PROJECT_DIR$/Account240311/Account240311.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account240311/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account240311/src/company/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account240311/src/company/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account240311/src/company/InvestmentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account240311/src/company/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Array7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/array/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day022/day022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day022/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day022/src/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/day03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/bank/bankapp/BankApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/car1/Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/car1/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/car2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/car2/Cal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/src/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day031/day031.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day031/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day031/src/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day031/src/company/SalesEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day031/src/company/SecretaryEmployee.java" afterDir="false" />
+    <list default="true" id="4942837e-869a-4793-bee9-c3985fd9294d" name="Changes" comment="day0311">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/day041.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/day041.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/dao/CustDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/dao/ItemDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/data/CustDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/data/ItemDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/frame/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/frame/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/service/CustService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/main/java/org/example/app/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day041/src/test/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/variable/Variable3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/variable/Variable3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/variable/Variable4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/variable/Variable4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/day041">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="day041" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -79,8 +104,13 @@
     "Application.Loop1.executor": "Run",
     "Application.Loop2.executor": "Run",
     "Application.Loop3.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.car1.app.App.executor": "Run",
     "Application.car2.App.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -93,17 +123,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/hanajava/Account240311/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.App" />
       <module name="day031" />
@@ -143,15 +176,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="car1.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="car1.app.App" />
-      <module name="day03" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="car1.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="day041.test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.BankApp" />
         <item itemvalue="Application.car2.App" />
-        <item itemvalue="Application.car1.app.App" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +226,8 @@
       <workItem from="1709903167340" duration="339000" />
       <workItem from="1709958210857" duration="118000" />
       <workItem from="1710115618502" duration="21141000" />
+      <workItem from="1710158003291" duration="78000" />
+      <workItem from="1710201845933" duration="15997000" />
     </task>
     <task id="LOCAL-00001" summary="240308">
       <option name="closed" value="true" />
@@ -240,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709863169786</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day0311">
+      <option name="closed" value="true" />
+      <created>1710158058294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710158058294</updated>
+    </task>
+    <task id="LOCAL-00007" summary="day0311">
+      <option name="closed" value="true" />
+      <created>1710158074295</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710158074295</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +319,9 @@
     <MESSAGE value="240308 - day02" />
     <MESSAGE value="1" />
     <MESSAGE value="day02" />
-    <option name="LAST_COMMIT_MESSAGE" value="day02" />
+    <MESSAGE value="day03" />
+    <MESSAGE value="day0311" />
+    <option name="LAST_COMMIT_MESSAGE" value="day0311" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -312,6 +359,11 @@
           <url>file://$PROJECT_DIR$/Account240311/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
